@@ -2,17 +2,24 @@
 
 Software Engineer from Germany. I care about clean architecture, practical tooling, and code that's easy to maintain.
 
-Building open-source CLI tools in Go — background in PHP, JavaScript/TypeScript, and MySQL/PostgreSQL.
+Building open-source software in Go and Rust — background in PHP, JavaScript/TypeScript, and MySQL/PostgreSQL.
 
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+
+## Creator of
+
+**[ndxr](https://github.com/ndxr/ndxr)** — Local-first context engine for AI coding agents.
+Structural indexing, hybrid search, and token-budgeted context capsules. Single binary, no cloud, 14 languages. Built in Rust.
 
 ## Featured Projects
 

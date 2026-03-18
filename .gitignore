@@ -1,0 +1,13 @@
+# Claude Code
+.claude/
+
+# Claude MCP Plugins
+.playwright-mcp/
+.serena/
+
+# Claude settings (local overrides)
+.claude-settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
