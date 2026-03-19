@@ -19,7 +19,7 @@ Building open-source software in Go and Rust — background in PHP, JavaScript/T
 ## Creator of
 
 **[ndxr](https://github.com/ndxr/ndxr)** — Local-first context engine for AI coding agents.
-Structural indexing, hybrid search, and token-budgeted context capsules. Single binary, no cloud, 14 languages. Built in Rust.
+Structural indexing, hybrid search, and token-budgeted context capsules. Single binary, no cloud, 13 languages. Built in Rust.
 
 ## Featured Projects
 
